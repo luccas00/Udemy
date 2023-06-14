@@ -1,0 +1,15 @@
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Workspace\UdemyC#\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Workspace\UdemyC#\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Workspace\UdemyC#\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Workspace\UdemyC#\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Workspace\UdemyC#\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Workspace\UdemyC#\Course\Course\obj\Debug\net7.0\ref\Course.dll

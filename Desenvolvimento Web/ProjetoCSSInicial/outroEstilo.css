@@ -1,0 +1,13 @@
+.texto{
+    color: black;
+    background: red;
+}
+
+p {
+    color: silver;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background: fixed;
+    background-color: gold;
+}
